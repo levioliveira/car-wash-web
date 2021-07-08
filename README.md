@@ -11,7 +11,7 @@
 Clone!
 
 ```
-$ git clone https://github.com/Walesson/car-wash-web.git
+$ git clone https://github.com/levioliveira/car-wash-web.git
 ```
 ## Projetos Relacionados
 
