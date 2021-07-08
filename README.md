@@ -17,7 +17,7 @@ $ git clone https://github.com/levioliveira/car-wash-web.git
 
 - [car-wash-app](https://github.com/Walesson/car-wash-app.git)
 
-- [car-wash-web](https://github.com/Walesson/car-wash-web.git)
+- [car-wash-web](https://github.com/Walesson/car-wash-web.git)(Git oficial do projeto)
 
 ## Type Command
 
