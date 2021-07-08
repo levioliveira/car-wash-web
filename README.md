@@ -35,3 +35,5 @@ Vá para o diretório do projeto e execute o comando:
 - [André Guimarães](https://github.com/Us3rRoot)
 
 - [Walesson Silva](https://github.com/Walesson)
+
+- [Levi Oliveira](https://github.com/levioliveira)
