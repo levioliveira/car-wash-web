@@ -15,7 +15,7 @@ $ git clone https://github.com/levioliveira/car-wash-web.git
 ```
 ## Projetos Relacionados
 
-- [car-wash-app](https://github.com/Walesson/car-wash-app.git)
+- [car-wash-app](https://github.com/Walesson/car-wash-app.git)(Projeto Mobile)
 
 - [car-wash-web](https://github.com/Walesson/car-wash-web.git)(Git oficial do projeto)
 
